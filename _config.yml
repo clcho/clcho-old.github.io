@@ -1,5 +1,5 @@
 title:            Chunglae Cho
-description:      Chunglae Cho's Personal Blog
+description:      Chunglae Cho's Personal Homepage & Blog
 url:              # Site url.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -9,11 +9,10 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
+  - name:         Publications
+    url:          /publications
   - name:         Blog
     url:          http://github.com/clcho
-    external:     true
-  - name:         References
-    url:          http://github.com/clcho 
     external:     true
   - name:         GitHub
     url:          http://github.com/clcho
