@@ -11,9 +11,8 @@ links:
     url:          /about
   - name:         Publications
     url:          /publications
-  - name:         Blog
-    url:          http://github.com/clcho
-    external:     true
+  - name:         Interests
+    url:          /
   - name:         GitHub
     url:          http://github.com/clcho
     external:     true
